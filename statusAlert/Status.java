@@ -2,12 +2,11 @@ package statusAlert;
 
 public class Status {
 
-	final String statement, name;
+	final String statement;
 	
 	
-	public Status (String statement, String name) {
+	public Status (String statement) {
 		this.statement = statement;
-		this.name = name;
 		
 	}
 	
@@ -15,8 +14,6 @@ public class Status {
 		return statement;
 	}
 	
-	public String getName() {
-		return name;	
-	}
+	
 	
 }
