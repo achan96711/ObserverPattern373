@@ -1,4 +1,8 @@
-package statusAlert;
+package messageSender.view.client;
+
+import messageSender.model.Friend;
+import messageSender.model.ProfilePage;
+import messageSender.model.Status;
 
 public class UserMessages {
 	public static void main(String args[]) {

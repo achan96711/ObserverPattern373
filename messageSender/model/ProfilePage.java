@@ -1,4 +1,4 @@
-package statusAlert;
+package messageSender.model;
 
 import java.util.*;
 

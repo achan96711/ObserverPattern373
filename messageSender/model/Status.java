@@ -1,4 +1,4 @@
-package statusAlert;
+package messageSender.model;
 
 public class Status {
 

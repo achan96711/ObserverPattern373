@@ -1,9 +1,9 @@
-package statusAlert;
+package messageSender.model;
 
 public class Friend implements Follower {
  private String name;
  
- Friend(String s){
+ public Friend(String s){
 	 name = s;
  };
  
